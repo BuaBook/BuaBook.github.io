@@ -1,0 +1,7 @@
+com.buabook.http.common
+com.buabook.http.common.auth
+com.buabook.http.common.exceptions
+com.buabook.http.common.jackson
+com.buabook.http.common.jersey
+com.buabook.http.common.oauth
+com.buabook.http.common.response.pojos
