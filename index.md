@@ -11,3 +11,7 @@ Project list:
 * [http-common](https://github.com/BuaBook/http-common)
     * HTTP Access and JSON Serialisation library
     * [Documentation](https://buabook.github.io/javadoc/http-common/)
+
+* [spring-common](https://github.com/BuaBook/spring-common)
+    * Spring auto-configuation library
+    * [Documentation](https://buabook.github.io/javadoc/spring-common/)
